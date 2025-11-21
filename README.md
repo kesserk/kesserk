@@ -1,7 +1,7 @@
  Hi there, I'm Kesser Ali Karim 👋
 
  🚀 About Me
-I'm a Software Developer & Educator with a strong foundation in Python, C++, and JavaScrip*. Passionate about problem-solving, AI, and automation, I’m currently enrolled in a PhD in Computer Science focusing on the use of wearable technologies to manage healthcare patients. My experience spans software development, data analysis, web scraping, and teaching computer science at secondary and higher education levels.
+I'm an aspiring Machine Learning Engineer & Educator with a strong foundation in Python, PyTorch, SQL, Azure ML, and production-level deployment. Passionate about problem-solving, AI, and automation, I’m currently enrolled in a PhD in Computer Science the use of Machine Learning in preventing long-term health conditions. My experience spans software development, data analysis, web scraping, and teaching computer science at secondary and higher education levels.
 
   
 🔹 Background: Computer Science, AI, and Software Engineering  
@@ -26,7 +26,10 @@ An AI-driven Quran recitation & Tajweed learning platform, inspired by Seneca Le
 Exploring the potential of social housing investment in the UK.
 
  🏗 3D Printed Housing
-Developing a global housing solution using 3D design and cost-effective materials.
+Developing a global housing solution using 3D design and cost-effective material
+
+Online Tuition Platform
+Developing an AI based online group tutoring platform for STEAM subjects.
 
  💻 Software Engineering
 - Ecommerce Store: Built a shopping cart with JavaScript and SQL.  
