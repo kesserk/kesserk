@@ -8,7 +8,7 @@ PhD candidate at the University of Portsmouth, researching machine learning for 
 
 ## Featured Projects
 
-### 🏥 T2D Risk Predictor *(in progress — ETA July 202 — [View on GitHub](https://github.com/kesserk/t2d-risk-predictor)*
+### 🏥 T2D Risk Predictor *(in progress — ETA July 2026 — [View on GitHub](https://github.com/kesserk/t2d-risk-predictor)*
 Fairness-audited Type 2 Diabetes risk model using NHANES data. Built with scikit-learn, XGBoost, Fairlearn subgroup audit (AUROC + ECE per subgroup), SHAP interpretability, FastAPI + Docker, deployed to Hugging Face Spaces.
 > *Differentiator: subgroup fairness analysis across ethnicity and sex bands — not just aggregate accuracy*
 
