@@ -1,48 +1,43 @@
- Hi there, I'm Kesser Ali Karim 👋
+# Kesser Karim — ML Engineer & PhD Researcher
 
- 🚀 About Me
-I'm an aspiring Machine Learning Engineer & Educator with a strong foundation in Python, PyTorch, SQL, Azure ML, and production-level deployment. Passionate about problem-solving, AI, and automation, I’m currently enrolled in a PhD in Computer Science the use of Machine Learning in preventing long-term health conditions. My experience spans software development, data analysis, web scraping, and teaching computer science at secondary and higher education levels.
+**Healthcare AI · Algorithmic Fairness · MLOps**
 
-  
-🔹 Background: Computer Science, AI, and Software Engineering  
-🔹 Interests: AI, Trading, Machine Learning, 3D Printing, Automation, Education Tech  
-
- 🛠️ Tech Stack
-- Languages: Python, C++, JavaScript, SQL, C#, CSS/HTML  
-- Development Areas: Web Development, Data Analysis, Testing & Debugging, Workflow Design  
-- Libraries & Tools: Pandas, BeautifulSoup, Tkinter  
-- Soft Skills: Critical Thinking, Problem Solving, Teamwork, Effective Communication  
-
- 💡 Projects
-Here are some of the projects I’ve worked on:
-
- 📊 TradingGPT
-AI-driven stock and ETF trading model integrating Alpaca, YFinance, and OpenWeather data.
-
- 📖 Quran Learning App
-An AI-driven Quran recitation & Tajweed learning platform, inspired by Seneca Learning.
-
- 🏡 Social HMO Landlord
-Exploring the potential of social housing investment in the UK.
-
- 🏗 3D Printed Housing
-Developing a global housing solution using 3D design and cost-effective material
-
-Online Tuition Platform
-Developing an AI based online group tutoring platform for STEAM subjects.
-
- 💻 Software Engineering
-- Ecommerce Store: Built a shopping cart with JavaScript and SQL.  
-- Random Number Generator: Python script for generating randomised sequences.  
-- Web Scraping Tool: Extracted structured HTML and text data from websites.  
-
- 🎯 What I'm Working On
-- Chess Game: Developed a Python-based chess simulation with AI-powered move analysis.
+PhD candidate at the University of Portsmouth, researching machine learning for preventable long-term health conditions. Azure certified (DP-100). Building production-grade ML pipelines focused on fairness, interpretability, and real-world deployment.
 
 ---
 
-📫 Get in Touch
-📩 Email: kesserk@gmail.com
-💼 LinkedIn:https://www.linkedin.com/in/kesser-karim/
+## Featured Projects
 
-Feel free to connect for **collaborations, software development discussions, or just a friendly chat!** 🚀  
+### 🏥 T2D Risk Predictor *(in progress — ETA July 2026)*
+Fairness-audited Type 2 Diabetes risk model using NHANES data. Built with scikit-learn, XGBoost, Fairlearn subgroup audit (AUROC + ECE per subgroup), SHAP interpretability, FastAPI + Docker, deployed to Hugging Face Spaces.
+> *Differentiator: subgroup fairness analysis across ethnicity and sex bands — not just aggregate accuracy*
+
+### 🤖 Diabetes Guidance RAG *(in progress)*
+Retrieval-Augmented Generation system over NICE NG28 / ADA clinical guidelines. LangChain + pgvector. Designed to support clinical decision support tooling.
+
+---
+
+## Tech Stack
+
+| Area | Tools |
+|---|---|
+| ML / DL | Python · scikit-learn · XGBoost · PyTorch |
+| Fairness & XAI | Fairlearn · SHAP · AIF360 |
+| MLOps | MLflow · FastAPI · Docker · GitHub Actions |
+| Data | Pandas · NumPy · SQL · PostgreSQL |
+| Cloud | Azure ML (DP-100 certified) |
+| GenAI | LangChain · pgvector · OpenAI API |
+
+---
+
+## Currently
+- **PhD**: ML for long-term health condition prevention (University of Portsmouth)
+- **Building**: Healthcare fairness ML pipeline — T2D risk predictor with Fairlearn audit
+- **Open to**: ML Engineer · AI Engineer · Applied Scientist roles (UAE / UK / Remote)
+- **Cert**: Microsoft Azure DP-100 (Data Scientist Associate)
+
+---
+
+## Connect
+- 🌐 [kesserkarim.com](https://kesserkarim.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kesserkarim)
