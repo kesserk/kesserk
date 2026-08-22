@@ -1,19 +1,18 @@
-# Kesser Karim — ML Engineer & PhD Researcher
+# Kesser Karim — PhD Researcher & ML Engineer (in transition)
 
 **Healthcare AI · Algorithmic Fairness · MLOps**
 
-PhD candidate at the University of Portsmouth, researching machine learning for preventable long-term health conditions. Azure certified (DP-100). Building production-grade ML pipelines focused on fairness, interpretability, and real-world deployment.
+Part-time PhD candidate at the University of Portsmouth, researching fair, calibrated and explainable ML for early detection of Type 2 Diabetes risk in South Asian populations — with data partnerships spanning Connected Bradford and UK Biobank. Transitioning into ML engineering from a decade leading Computer Science education across UK and UAE schools.
 
 ---
 
 ## Featured Projects
 
-### 🏥 T2D Risk Predictor *(in progress — ETA July 2026 — [View on GitHub](https://github.com/kesserk/t2d-risk-predictor)*
-Fairness-audited Type 2 Diabetes risk model using NHANES data. Built with scikit-learn, XGBoost, Fairlearn subgroup audit (AUROC + ECE per subgroup), SHAP interpretability, FastAPI + Docker, deployed to Hugging Face Spaces.
-> *Differentiator: subgroup fairness analysis across ethnicity and sex bands — not just aggregate accuracy*
+### 🏥 [T2D Risk Predictor](https://github.com/kesserk/t2d-risk-predictor) *(in progress)*
+Fairness-audited Type 2 Diabetes risk model on open NHANES data. Multi-model comparison (logistic regression, XGBoost, MLP, tabular transformer), Fairlearn subgroup audits, SHAP explainability, FastAPI + Docker + CI. Built in the open — the README says what's done and what isn't.
 
-### 🤖 Diabetes Guidance RAG *(in progress)*
-Retrieval-Augmented Generation system over NICE NG28 / ADA clinical guidelines. LangChain + pgvector. Designed to support clinical decision support tooling.
+### 🤖 [Diabetes Guidance RAG](https://github.com/kesserk/diabetes-rag) *(in progress)*
+Retrieval-augmented Q&A over NICE NG28 / ADA Standards of Care. Hybrid BM25 + PubMedBERT retrieval with pgvector, RAGAS evaluation, and explicit faithfulness / hallucination measurement.
 
 ---
 
@@ -21,23 +20,24 @@ Retrieval-Augmented Generation system over NICE NG28 / ADA clinical guidelines. 
 
 | Area | Tools |
 |---|---|
-| ML / DL | Python · scikit-learn · XGBoost · PyTorch |
+| ML / DL | Python · scikit-learn · XGBoost · PyTorch · TensorFlow |
 | Fairness & XAI | Fairlearn · SHAP · AIF360 |
 | MLOps | MLflow · FastAPI · Docker · GitHub Actions |
-| Data | Pandas · NumPy · SQL · PostgreSQL |
-| Cloud | Azure ML (DP-100 certified) |
-| GenAI | LangChain · pgvector · OpenAI API |
+| Data | pandas · NumPy · SQL · PostgreSQL |
+| GenAI | LangChain · pgvector · RAGAS · Langfuse |
 
 ---
 
 ## Currently
-- **PhD**: ML for long-term health condition prevention (University of Portsmouth)
-- **Building**: Healthcare fairness ML pipeline — T2D risk predictor with Fairlearn audit
-- **Open to**: ML Engineer · AI Engineer · Applied Scientist roles (UAE / UK / Remote)
-- **Cert**: Microsoft Azure DP-100 (Data Scientist Associate)
+
+- **PhD**: Early detection of T2D risk in South Asian populations (University of Portsmouth, part-time)
+- **Building**: the two projects above, in the open
+- **Learning**: DataCamp ML Engineer specialisation; preparing for Microsoft AI-300 (MLOps Engineer Associate)
+- **Open to**: ML Engineer · Applied ML roles (UAE / remote UK)
 
 ---
 
 ## Connect
+
 - 🌐 [kesserkarim.com](https://kesserkarim.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kesserkarim)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kesser-karim/)
